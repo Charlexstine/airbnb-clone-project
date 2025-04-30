@@ -20,7 +20,7 @@
 - Bookings
 - Reviews
 - payments
-# Relationship betwwen the Entities
+# Relationship between the Entities
 -Users browse and search for properties based on various criteria like location, amenities, price, and reviews.
 -Properties are listed with details, photos, and amenities to attract potential users
 -Users make bookings by selecting a property, choosing dates, and specifying their needs.
