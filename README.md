@@ -10,3 +10,7 @@
 - Quality Assurance Engineer
 - Test Automation Engineer
 - DevOps Engineer
+# Technology Stack 
+- Django : A web farame work for buidling RESTfullAPI'S
+- PostgreSQL : A versatile database management system used for wide range applications such as Transactional systems, Data warehousing, web and mobile applications, geospatial applications etc. 
+- GraphQL : A query language and a server side runtime for application programming interface that gives clients exactly the data they requested. 
