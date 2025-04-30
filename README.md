@@ -40,4 +40,4 @@
 - Booking system : controlling access to booking features, and tracking booking history. This helps prevent unauthorized bookings, ensures data accuracy, and streamlines the booking process for both guests and administrators
 - Payment systems : payment systems is crucial for securing user accounts, managing payment methods, and preventing fraudulent transactions. It allows for the implementation of secure access control, user authentication, and the monitoring of payment-related activities.
 - Review Systems : review systems helps manage user accounts, moderate reviews, and prevent spam or malicious content. It allows for the implementation of user authentication, the tracking of review history, and the control of user permissions within the review platform
-- 
+# API SECURITY 
