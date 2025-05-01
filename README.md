@@ -41,3 +41,9 @@
 - Payment systems : payment systems is crucial for securing user accounts, managing payment methods, and preventing fraudulent transactions. It allows for the implementation of secure access control, user authentication, and the monitoring of payment-related activities.
 - Review Systems : review systems helps manage user accounts, moderate reviews, and prevent spam or malicious content. It allows for the implementation of user authentication, the tracking of review history, and the control of user permissions within the review platform
 # API SECURITY 
+-Authentication : Verifies the user 
+Authourization : Determines what the users are allowed to do 
+Rate limiting : Controls how frequently the users can interact with resources 
+# IMPORTANCE OF SECURITY 
+- Security helps to protect user's data and ensures that the user's data are protected, stored and can be retrived at any point in time. security helps to secure payment and eradicate fraudulent activities.
+   
