@@ -46,4 +46,6 @@ Authourization : Determines what the users are allowed to do
 Rate limiting : Controls how frequently the users can interact with resources 
 # IMPORTANCE OF SECURITY 
 - Security helps to protect user's data and ensures that the user's data are protected, stored and can be retrived at any point in time. security helps to secure payment and eradicate fraudulent activities.
-   
+   # CI/CD PIPELINE
+  - CI/CD pipelines streamline and automate the software development lifecycle, from code integration to deployment, leading to faster development cycles, improved quality, and reduced risk.
+  - The tools used are  Docker, Docker Compose, GitHub Actions, and Docker Hub. 
